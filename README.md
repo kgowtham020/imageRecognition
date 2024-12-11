@@ -37,4 +37,4 @@ ver 12 : using Nelder-Mean optimization for best blend weights
 ver 13 : implemented individual target blend weight optimization
 ver 14 : testing multi:softprob
 ver 15 : reverting to softmax, updating LightGBM hyperparameters
- Preda
+ Preda                                              
