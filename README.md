@@ -23,7 +23,7 @@ You can use other technologies that you know.
 
 What You Learn
 CNN architecture, image preprocessing, transfer learning.
-
+                   
 Steel Plate Defect Prediction
 ![image](https://github.com/Fainaz96/Image-classifier-Using-CNN/assets/100863402/61cb0e69-1745-4636-aaf5-f9f3df0df9de)
 
