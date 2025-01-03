@@ -15,12 +15,6 @@ You can use other technologies that you know.
 
 
 
-
-
-
-
-
-
 What You Learn
 CNN architecture, image preprocessing, transfer learning.
                    
